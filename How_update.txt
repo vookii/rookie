@@ -1,0 +1,17 @@
+one          库的初始化
+1.git init                                                                                //进入
+2.git remote add origin git@github.com:vookii/xxxx.git     //移动
+3.git pull git@github.com:vookii/xxxx.git                            //同步
+
+two          上传
+1.git add xxxx.xxx                                           //选取文件
+2.git commit -m"xxxx"                                   //标注
+3.git push git@github.com:vookii/xxxx.git    //上传
+
+three          配置用户名和邮箱
+1.git config –global user.name “用户名”
+2.git config –global user.email “邮箱”
+
+four            配置Git
+1.ssh-keygen –t rsa –C “邮箱地址”
+2.Enter*3
