@@ -1,17 +1,17 @@
-one          ¿âµÄ³õÊ¼»¯
-1.git init                                                                                //½øÈë
-2.git remote add origin git@github.com:vookii/xxxx.git     //ÒÆ¶¯
-3.git pull git@github.com:vookii/xxxx.git                            //Í¬²½
+one     åº“çš„åˆå§‹åŒ–
+1.git init                                                 //è¿›å…¥
+2.git remote add origin git@github.com:vookii/xxxx.git     //ç§»åŠ¨
+3.git pull git@github.com:vookii/xxxx.git                  //åŒæ­¥
 
-two          ÉÏ´«
-1.git add xxxx.xxx                                           //Ñ¡È¡ÎÄ¼ş
-2.git commit -m"xxxx"                                   //±ê×¢
-3.git push git@github.com:vookii/xxxx.git    //ÉÏ´«
+two     ä¸Šä¼ 
+1.git add xxxx.xxx     //é€‰å–æ–‡ä»¶
+2.git commit -m"xxxx"     //æ ‡æ³¨
+3.git push git@github.com:vookii/xxxx.git     //ä¸Šä¼ 
 
-three          ÅäÖÃÓÃ»§ÃûºÍÓÊÏä
-1.git config ¨Cglobal user.name ¡°ÓÃ»§Ãû¡±
-2.git config ¨Cglobal user.email ¡°ÓÊÏä¡±
+three     é…ç½®ç”¨æˆ·åå’Œé‚®ç®±
+1.git config â€“global user.name â€œç”¨æˆ·åâ€
+2.git config â€“global user.email â€œé‚®ç®±â€
 
-four            ÅäÖÃGit
-1.ssh-keygen ¨Ct rsa ¨CC ¡°ÓÊÏäµØÖ·¡±
+four     é…ç½®Git
+1.ssh-keygen â€“t rsa â€“C â€œé‚®ç®±åœ°å€â€
 2.Enter*3
