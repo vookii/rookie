@@ -15,3 +15,6 @@ three     配置用户名和邮箱
 four     配置Git
 1.ssh-keygen –t rsa –C “邮箱地址”
 2.Enter*3
+
+five     出现[rejected] master -> master (fetch first)(non-fast forward)时
+git pull origin master 
